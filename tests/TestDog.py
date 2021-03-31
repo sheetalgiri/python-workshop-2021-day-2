@@ -12,3 +12,5 @@ class TestDog(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+#run with python -m unittest tests.TestDog
