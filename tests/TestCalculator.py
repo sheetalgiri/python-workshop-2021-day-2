@@ -18,5 +18,3 @@ class TestCalculator(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-#run with python -m unittest tests.TestCalculator

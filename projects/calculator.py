@@ -3,7 +3,7 @@ class Calculator(object):
         self.last_answer = 0.0
 
     def add(self, a, b):
-        self.last_answer = a - b
+        self.last_answer = a + b
         return self.last_answer
 
     def subtract(self, a, b):
